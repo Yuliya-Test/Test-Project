@@ -165,3 +165,18 @@
 2019-07-25 02:04:59 INFO  NotebooksPage:45 - Find differences between two  products: 20
 2019-07-25 02:04:59 INFO  NotebooksPage:51 - Only differences link click
 2019-07-25 02:04:59 INFO  NotebooksPage:62 - Assert that differences between products counted Successfully
+2019-07-25 02:38:34 INFO  BaseTestClass:23 - Driver instance is created
+2019-07-25 02:38:37 INFO  BaseTestClass:28 - Enabled Chrome options
+2019-07-25 02:38:41 INFO  BaseTestClass:33 - Navigate to the site
+2019-07-25 02:38:57 INFO  MainMenuLeft:31 - Hover over 'Notebooks & Computers' option
+2019-07-25 02:39:00 INFO  MainMenuLeft:37 - Click 'Notebooks' link
+2019-07-25 02:39:08 INFO  NotebooksPage:31 - Click 'Notebooks with SSD' link
+2019-07-25 02:39:08 INFO  NotebooksPage:37 - Hover over product item
+2019-07-25 02:39:09 INFO  NotebooksPage:46 - Add product to compare
+2019-07-25 02:39:09 INFO  NotebooksPage:37 - Hover over product item
+2019-07-25 02:39:09 INFO  NotebooksPage:46 - Add product to compare
+2019-07-25 02:39:12 INFO  NotebooksPage:52 - Compare Products button click
+2019-07-25 02:39:15 INFO  NotebooksPage:33 - Hover over product item
+2019-07-25 02:39:17 INFO  NotebooksPage:45 - Find differences between two  products: 20
+2019-07-25 02:39:17 INFO  NotebooksPage:51 - Only differences link click
+2019-07-25 02:39:17 INFO  NotebooksPage:62 - Assert that differences between products counted Successfully
