@@ -33,7 +33,7 @@ public class NotebooksPage {
     }
 
     public NotebooksPage productItemHover(int index) {
-        new ActionsHelpers(driver).hoverOverByElementFrom(productItems, index);
+        new ActionsHelpers(driver).scrollToTopAndHoverOverByElementFrom(productItems, index);
         log.info("Hover over product item");
         return this;
     }

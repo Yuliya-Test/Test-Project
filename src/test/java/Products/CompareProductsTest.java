@@ -19,8 +19,6 @@ public class CompareProductsTest extends BaseTestClass {
         compareProductsPageObj = new CompareProductsPage(driver);
         basicNavigationObj = new BasicNavigation(driver)
                 .popUpBannerClose();
-        System.getProperty("user.dir");
-
     }
 
     @Test

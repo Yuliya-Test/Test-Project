@@ -19,14 +19,14 @@ public class MainMenuLeft {
 
     private By classicMenuBlock = By.cssSelector(".menu-wrapper_state_static");
     private By notebooksComputersLink = By.cssSelector(".menu-categories__link[href*='computers-notebook']");
-    private By subMenuActive = By.cssSelector(".menu-categories__link_state_hovered+.menu__hidden-content .menu__main-cats-inner");
+    private By subMenuActive = By.cssSelector(".menu-wrapper.display-block .menu-categories__link_state_hovered+.menu__hidden-content .menu__main-cats-inner");
     private By notebooksSubmenuLink = By.cssSelector(".menu__hidden-title[href*='notebooks']");
 
     public MainMenuLeft notebooksComputersLinkHover() {
-        new ActionsHelpers(driver).hoverOverWebElement(
+        new ActionsHelpers(driver).scrollToTopAndHoverOverWebElement(
                 driver.findElement(classicMenuBlock).findElement(notebooksComputersLink)
-
         );
+
         waitForElementSubMenuIsVisible();
         log.info("Hover over 'Notebooks & Computers' option");
         return this;
@@ -40,7 +40,7 @@ public class MainMenuLeft {
 
     //Wait
     public MainMenuLeft waitForElementClassicMenuBlockIsVisible() {
-        WebDriverWait wait = new WebDriverWait(driver, 5000);
+        WebDriverWait wait = new WebDriverWait(driver, 2000);
         wait.until(ExpectedConditions.visibilityOf(driver.findElement(classicMenuBlock)));
         return this;
     }

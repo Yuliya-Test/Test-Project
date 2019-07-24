@@ -78,3 +78,90 @@
 2019-07-24 23:46:44 INFO  NotebooksPage:45 - Find differences between two  products: 20
 2019-07-24 23:46:44 INFO  NotebooksPage:51 - Only differences link click
 2019-07-24 23:46:44 INFO  NotebooksPage:62 - Assert that differences between products counted Successfully
+2019-07-25 01:28:00 INFO  BaseTestClass:23 - Driver instance is created
+2019-07-25 01:28:06 INFO  BaseTestClass:28 - Enabled Chrome options
+2019-07-25 01:28:12 INFO  BaseTestClass:33 - Navigate to the site
+2019-07-25 01:28:23 INFO  MainMenuLeft:31 - Hover over 'Notebooks & Computers' option
+2019-07-25 01:28:27 INFO  MainMenuLeft:37 - Click 'Notebooks' link
+2019-07-25 01:28:46 INFO  BaseTestClass:23 - Driver instance is created
+2019-07-25 01:28:49 INFO  BaseTestClass:28 - Enabled Chrome options
+2019-07-25 01:28:56 INFO  BaseTestClass:33 - Navigate to the site
+2019-07-25 01:29:06 INFO  MainMenuLeft:31 - Hover over 'Notebooks & Computers' option
+2019-07-25 01:29:09 INFO  MainMenuLeft:37 - Click 'Notebooks' link
+2019-07-25 01:29:16 INFO  NotebooksPage:31 - Click 'Notebooks with SSD' link
+2019-07-25 01:29:16 INFO  NotebooksPage:37 - Hover over product item
+2019-07-25 01:29:16 INFO  NotebooksPage:46 - Add product to compare
+2019-07-25 01:29:17 INFO  NotebooksPage:37 - Hover over product item
+2019-07-25 01:29:17 INFO  NotebooksPage:46 - Add product to compare
+2019-07-25 01:29:22 INFO  NotebooksPage:52 - Compare Products button click
+2019-07-25 01:29:23 INFO  NotebooksPage:33 - Hover over product item
+2019-07-25 01:29:25 INFO  NotebooksPage:45 - Find differences between two  products: 20
+2019-07-25 01:29:25 INFO  NotebooksPage:51 - Only differences link click
+2019-07-25 01:29:25 INFO  NotebooksPage:62 - Assert that differences between products counted Successfully
+2019-07-25 01:47:17 INFO  BaseTestClass:23 - Driver instance is created
+2019-07-25 01:47:20 INFO  BaseTestClass:28 - Enabled Chrome options
+2019-07-25 01:47:25 INFO  BaseTestClass:33 - Navigate to the site
+2019-07-25 01:47:36 INFO  MainMenuLeft:33 - Hover over 'Notebooks & Computers' option
+2019-07-25 01:47:38 INFO  MainMenuLeft:44 - Click 'Notebooks' link
+2019-07-25 01:47:45 INFO  NotebooksPage:31 - Click 'Notebooks with SSD' link
+2019-07-25 01:47:46 INFO  NotebooksPage:37 - Hover over product item
+2019-07-25 01:47:46 INFO  NotebooksPage:46 - Add product to compare
+2019-07-25 01:47:46 INFO  NotebooksPage:37 - Hover over product item
+2019-07-25 01:47:47 INFO  NotebooksPage:46 - Add product to compare
+2019-07-25 01:47:49 INFO  NotebooksPage:52 - Compare Products button click
+2019-07-25 01:47:58 INFO  NotebooksPage:33 - Hover over product item
+2019-07-25 01:48:00 INFO  NotebooksPage:45 - Find differences between two  products: 20
+2019-07-25 01:48:00 INFO  NotebooksPage:51 - Only differences link click
+2019-07-25 01:48:00 INFO  NotebooksPage:62 - Assert that differences between products counted Successfully
+2019-07-25 01:49:49 INFO  BaseTestClass:23 - Driver instance is created
+2019-07-25 01:49:51 INFO  BaseTestClass:28 - Enabled Chrome options
+2019-07-25 01:49:56 INFO  BaseTestClass:33 - Navigate to the site
+2019-07-25 01:50:54 INFO  BaseTestClass:23 - Driver instance is created
+2019-07-25 01:50:57 INFO  BaseTestClass:28 - Enabled Chrome options
+2019-07-25 01:51:02 INFO  BaseTestClass:33 - Navigate to the site
+2019-07-25 01:51:13 INFO  MainMenuLeft:39 - Hover over 'Notebooks & Computers' option
+2019-07-25 01:51:17 INFO  MainMenuLeft:50 - Click 'Notebooks' link
+2019-07-25 01:54:26 INFO  BaseTestClass:23 - Driver instance is created
+2019-07-25 01:54:29 INFO  BaseTestClass:28 - Enabled Chrome options
+2019-07-25 01:54:34 INFO  BaseTestClass:33 - Navigate to the site
+2019-07-25 01:54:45 INFO  MainMenuLeft:34 - Hover over 'Notebooks & Computers' option
+2019-07-25 01:54:47 INFO  MainMenuLeft:40 - Click 'Notebooks' link
+2019-07-25 01:55:14 INFO  BaseTestClass:23 - Driver instance is created
+2019-07-25 01:55:17 INFO  BaseTestClass:28 - Enabled Chrome options
+2019-07-25 01:55:23 INFO  BaseTestClass:33 - Navigate to the site
+2019-07-25 01:56:02 INFO  BaseTestClass:23 - Driver instance is created
+2019-07-25 01:56:05 INFO  BaseTestClass:28 - Enabled Chrome options
+2019-07-25 01:56:10 INFO  BaseTestClass:33 - Navigate to the site
+2019-07-25 01:56:25 INFO  MainMenuLeft:34 - Hover over 'Notebooks & Computers' option
+2019-07-25 01:56:28 INFO  MainMenuLeft:40 - Click 'Notebooks' link
+2019-07-25 01:56:31 INFO  NotebooksPage:31 - Click 'Notebooks with SSD' link
+2019-07-25 01:57:11 INFO  BaseTestClass:23 - Driver instance is created
+2019-07-25 01:57:14 INFO  BaseTestClass:28 - Enabled Chrome options
+2019-07-25 01:57:19 INFO  BaseTestClass:33 - Navigate to the site
+2019-07-25 01:57:30 INFO  MainMenuLeft:34 - Hover over 'Notebooks & Computers' option
+2019-07-25 01:57:36 INFO  MainMenuLeft:40 - Click 'Notebooks' link
+2019-07-25 01:57:42 INFO  NotebooksPage:31 - Click 'Notebooks with SSD' link
+2019-07-25 01:57:42 INFO  NotebooksPage:37 - Hover over product item
+2019-07-25 01:57:43 INFO  NotebooksPage:46 - Add product to compare
+2019-07-25 01:57:43 INFO  NotebooksPage:37 - Hover over product item
+2019-07-25 01:57:44 INFO  NotebooksPage:46 - Add product to compare
+2019-07-25 01:57:46 INFO  NotebooksPage:52 - Compare Products button click
+2019-07-25 01:57:48 INFO  NotebooksPage:33 - Hover over product item
+2019-07-25 01:57:50 INFO  NotebooksPage:45 - Find differences between two  products: 20
+2019-07-25 01:57:50 INFO  NotebooksPage:51 - Only differences link click
+2019-07-25 01:57:50 INFO  NotebooksPage:62 - Assert that differences between products counted Successfully
+2019-07-25 02:04:24 INFO  BaseTestClass:23 - Driver instance is created
+2019-07-25 02:04:27 INFO  BaseTestClass:28 - Enabled Chrome options
+2019-07-25 02:04:32 INFO  BaseTestClass:33 - Navigate to the site
+2019-07-25 02:04:42 INFO  MainMenuLeft:31 - Hover over 'Notebooks & Computers' option
+2019-07-25 02:04:45 INFO  MainMenuLeft:37 - Click 'Notebooks' link
+2019-07-25 02:04:52 INFO  NotebooksPage:31 - Click 'Notebooks with SSD' link
+2019-07-25 02:04:52 INFO  NotebooksPage:37 - Hover over product item
+2019-07-25 02:04:53 INFO  NotebooksPage:46 - Add product to compare
+2019-07-25 02:04:53 INFO  NotebooksPage:37 - Hover over product item
+2019-07-25 02:04:53 INFO  NotebooksPage:46 - Add product to compare
+2019-07-25 02:04:56 INFO  NotebooksPage:52 - Compare Products button click
+2019-07-25 02:04:57 INFO  NotebooksPage:33 - Hover over product item
+2019-07-25 02:04:59 INFO  NotebooksPage:45 - Find differences between two  products: 20
+2019-07-25 02:04:59 INFO  NotebooksPage:51 - Only differences link click
+2019-07-25 02:04:59 INFO  NotebooksPage:62 - Assert that differences between products counted Successfully

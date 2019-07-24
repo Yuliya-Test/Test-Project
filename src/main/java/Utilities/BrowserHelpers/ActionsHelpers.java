@@ -14,23 +14,23 @@ public class ActionsHelpers {
         this.driver = driver;
     }
 
-    public void hoverOverByElementFrom(By element, int index) {
+    public void scrollToTopAndHoverOverByElementFrom(By element, int index) {
         Actions builder = new Actions(driver);
         WebElement webElement = driver.findElements(element).get(index);
-        ((JavascriptExecutor) driver).executeScript("arguments[0].scrollIntoView(true);", webElement);
-        builder.moveToElement(webElement).build().perform();
+        ((JavascriptExecutor) driver).executeScript("window.scrollTo(document.body.scrollHeight, 0);", webElement);
+        builder.moveToElement(webElement).perform();
     }
 
-    public void hoverOverByElement(By element) {
+    public void scrollToTopAndHoverOverByElement(By element) {
         Actions builder = new Actions(driver);
         WebElement webElement = driver.findElement(element);
-        ((JavascriptExecutor) driver).executeScript("arguments[0].scrollIntoView(true);", webElement);
-        builder.moveToElement(webElement).build().perform();
+        ((JavascriptExecutor) driver).executeScript("window.scrollTo(document.body.scrollHeight, 0);", webElement);
+        builder.moveToElement(webElement).perform();
     }
 
-    public void hoverOverWebElement(WebElement webElement) {
+    public void scrollToTopAndHoverOverWebElement(WebElement webElement) {
         Actions builder = new Actions(driver);
-        ((JavascriptExecutor) driver).executeScript("arguments[0].scrollIntoView(true);", webElement);
-        builder.moveToElement(webElement).build().perform();
+        ((JavascriptExecutor) driver).executeScript("window.scrollTo(document.body.scrollHeight, 0);", webElement);
+        builder.moveToElement(webElement).perform();
     }
 }
