@@ -2,24 +2,24 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Rozetka" duration-ms="44389" started-at="2019-07-24T23:38:33Z" finished-at="2019-07-24T23:39:18Z">
+  <suite name="Rozetka" duration-ms="43748" started-at="2019-07-25T00:14:57Z" finished-at="2019-07-25T00:15:41Z">
     <groups>
     </groups>
-    <test name="Producrs" duration-ms="44389" started-at="2019-07-24T23:38:33Z" finished-at="2019-07-24T23:39:18Z">
+    <test name="Producrs" duration-ms="43748" started-at="2019-07-25T00:14:57Z" finished-at="2019-07-25T00:15:41Z">
       <class name="Products.CompareProductsTest">
-        <test-method status="PASS" signature="beforeClass()[pri:0, instance:Products.CompareProductsTest@3c09711b]" name="beforeClass" is-config="true" duration-ms="7212" started-at="2019-07-24T23:38:33Z" finished-at="2019-07-24T23:38:41Z">
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:Products.CompareProductsTest@3c09711b]" name="beforeClass" is-config="true" duration-ms="7538" started-at="2019-07-25T00:14:57Z" finished-at="2019-07-25T00:15:05Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeClass -->
-        <test-method status="PASS" signature="beforeTestMethod()[pri:0, instance:Products.CompareProductsTest@3c09711b]" name="beforeTestMethod" is-config="true" duration-ms="10049" started-at="2019-07-24T23:38:41Z" finished-at="2019-07-24T23:38:51Z">
+        <test-method status="PASS" signature="beforeTestMethod()[pri:0, instance:Products.CompareProductsTest@3c09711b]" name="beforeTestMethod" is-config="true" duration-ms="10085" started-at="2019-07-25T00:15:05Z" finished-at="2019-07-25T00:15:15Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeTestMethod -->
-        <test-method status="PASS" signature="CompareProduct()[pri:0, instance:Products.CompareProductsTest@3c09711b]" name="CompareProduct" duration-ms="26783" started-at="2019-07-24T23:38:51Z" finished-at="2019-07-24T23:39:17Z">
+        <test-method status="PASS" signature="CompareProduct()[pri:0, instance:Products.CompareProductsTest@3c09711b]" name="CompareProduct" duration-ms="25382" started-at="2019-07-25T00:15:15Z" finished-at="2019-07-25T00:15:40Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- CompareProduct -->
-        <test-method status="PASS" signature="afterClass()[pri:0, instance:Products.CompareProductsTest@3c09711b]" name="afterClass" is-config="true" duration-ms="322" started-at="2019-07-24T23:39:17Z" finished-at="2019-07-24T23:39:18Z">
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:Products.CompareProductsTest@3c09711b]" name="afterClass" is-config="true" duration-ms="688" started-at="2019-07-25T00:15:40Z" finished-at="2019-07-25T00:15:41Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterClass -->

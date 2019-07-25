@@ -38,13 +38,6 @@ public class MainMenuLeft {
         return new NotebooksPage(driver);
     }
 
-    //Wait
-    public MainMenuLeft waitForElementClassicMenuBlockIsVisible() {
-        WebDriverWait wait = new WebDriverWait(driver, 2000);
-        wait.until(ExpectedConditions.visibilityOf(driver.findElement(classicMenuBlock)));
-        return this;
-    }
-
     public MainMenuLeft waitForElementSubMenuIsVisible() {
         WebDriverWait wait = new WebDriverWait(driver, 2000);
         wait.until(ExpectedConditions.visibilityOf(driver.findElement(subMenuActive)));

@@ -24,7 +24,6 @@ public class NotebooksPage {
     private By selectedProductsCompareIcon = By.cssSelector(".incomparison .g-compare-icon");
     private By compareIcon = By.id("comparison");
     private By compareCounter = By.cssSelector(".hub-i-count");
-    private By comparePopup = By.cssSelector("#comparison-popup:not(.hidden)");
 
     public  NotebooksPage notebooksWithSSDLinkClick() {
         driver.findElement(notebooksWithSSDLink).click();
